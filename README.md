@@ -16,5 +16,5 @@ A continuación, puedes explorar mis áreas de especialización:
 ## Contacto
 * **LinkedIn:** [Holger Chimbo](https://www.linkedin.com/in/holger-alexander-chimbo-tiama-677546145/)
 * **Correo:** holght@gmail.com
-* * **Correo:** holger.chimbo@outlook.es
+* **Correo:** holger.chimbo@outlook.es
 
